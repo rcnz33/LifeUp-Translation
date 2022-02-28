@@ -250,10 +250,10 @@
     <string name="to_do_detail_delete_history_failed">Nabigong ma-delete</string>
     <string name="to_do_item_detail_give_up_team_task">Hindi maaaring susuko nalang ang Team!!</string>
     <string name="to_do_item_detail_give_up_title">Sumuko sa task</string>
-    <string name="to_do_item_detail_give_up_message"Sumusuko ka na ba sa task na 'to?\nMaaari kang mawalan ng ilang exp kung ganun."</string>
-    <string name="to_do_item_detail_edit_team_task">Team task is uneditable!</string>
-    <string name="to_do_detail_set_to_finish">Set to「Completed」</string>
-    <string name="to_do_detail_set_to_finish_message">Did you actually complete this task?</string>
+    <string name="to_do_item_detail_give_up_message">Sumusuko ka na ba sa task na 'to?\nMaaari kang mawalan ng ilang exp kung ganun."</string>
+    <string name="to_do_item_detail_edit_team_task">Hindi na e-edit ang task ng Team!</string>
+    <string name="to_do_detail_set_to_finish">I-Set bilang「Completed」</string>
+    <string name="to_do_detail_set_to_finish_message">Talaga bang nakompleto mo na ang task na 'to?</string>
     <string name="give_up_success">Task was given up successfully. You lost %1$d exp.</string>
     <string name="give_up_success_with_coin">Task was given up successfully. You lost %1$d exp and %2$d coins.</string>
     <string name="give_up_failed">Give up failed</string>
